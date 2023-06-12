@@ -52,9 +52,9 @@ Enjoy watching anime and reading books in my free time
 ## Projects ✨
 
 I'm proud to have worked on various projects that have allowed me to apply my skills and explore different domains. 
-- https://gdsc-bvpdet-nm.github.io/websiteTeam.html
 - https://github.com/akanksha042/Carrom-Game-In-Java
 - https://github.com/akanksha042/Snake-Game
+- https://gdsc-bvpdet-nm.github.io/index.html
 
 For a comprehensive list of my projects, please visit my repositories for more info... 
 
