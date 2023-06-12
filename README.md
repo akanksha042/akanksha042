@@ -62,9 +62,7 @@ For a comprehensive list of my projects, please visit my repositories for more i
 
 - I strongly believe in giving back to the community, and open-source contributions have been a significant part of my journey. 
 and to do that I've Participated in Hacktoberfest and contributed in many Projects.
-
-
-I'm always excited to collaborate on new open-source projects and contribute to the community. Feel free to reach out if you have any interesting projects in mind.
+- I'm always excited to collaborate on new open-source projects and contribute to the community. Feel free to reach out if you have any interesting projects in mind.
 
 ## Connect with Me 🌟
 
@@ -72,7 +70,6 @@ I love connecting with fellow developers, technology enthusiasts, and anyone int
 
 - [LinkedIn](https://www.linkedin.com/in/akanksha-srivastava-23413a225/): Connect with me on LinkedIn for professional networking.
 
-Feel free 
 
 ## Statistics 📊📈
 
