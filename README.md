@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 # Welcome to My Github Profile! 💫
 
 <div align="center">
-  <img src="https://example.com/path/to/profile-banner.jpg" alt="Profile Banner">
+  <img src="MyProfile.png" alt="Profile Image">
 </div>
+
 
 <div align="center">Hello there! Welcome to my Github profile 🙋‍♀️.</div>
 
@@ -73,11 +74,7 @@ I love connecting with fellow developers, technology enthusiasts, and anyone int
 
 Feel free 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha042)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksha042&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akanksha042)  
+## Statistics 📊📈
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akanksha042)  
 
