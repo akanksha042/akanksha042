@@ -1,4 +1,6 @@
-# Hi there 👋
+
+<h1 align="center"> # Hey, Welcome to My Github Profile! 💫 </h1>
+
 
 <!--
 **akanksha042/akanksha042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My Github Profile! 💫
-
 <div align="center">
-  <img src="MyProfile.png" alt="Profile Image">
+  <img src="MyProfile.png" alt="Profile Image" width="600" height="600"> 
 </div>
 
 
