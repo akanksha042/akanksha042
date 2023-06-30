@@ -1,5 +1,5 @@
 
-<h1 align="center"> # Hey, Welcome to My Github Profile! 💫 </h1>
+<h1 align="center"> Hey, Welcome to My Github Profile! 💫 </h1>
 
 
 <!--
@@ -66,9 +66,13 @@ and to do that I've Participated in Hacktoberfest and contributed in many Projec
 
 ## Connect with Me 🌟
 
-I love connecting with fellow developers, technology enthusiasts, and anyone interested in discussing exciting ideas. You can find me on various platforms:
+<p align = "left"
 
-- [LinkedIn](https://www.linkedin.com/in/akanksha-srivastava-23413a225/): Connect with me on LinkedIn for professional networking.
+I love connecting with fellow developers, technology enthusiasts, and anyone interested in discussing exciting ideas. You can find me on various platforms:
+<br> </br>
+<a href="https://www.linkedin.com/in/akanksha-srivastava-23413a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-srivastava" height="30" width="40" /> </a> - Connect with me on LinkedIn for professional networking.
+
+  </p>
 
 
 ## Statistics 📊📈
