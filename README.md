@@ -45,9 +45,9 @@ I'm always eager to learn and grow as a developer, constantly seeking new challe
 - Soft skills: Problem-solving, communication, teamwork
 
 ## Interests ✨
-Participate in hackathons and coding competitions
-President at Codechef BVPDET 
-Enjoy watching anime and reading books in my free time
+- Participate in Hackathons and Coding competitions
+- President at Codechef BVPDET 
+- Enjoy Watching Anime, Listen to Music, and Reading Books in my free time
 
 ## Projects ✨
 
@@ -75,7 +75,12 @@ I love connecting with fellow developers, technology enthusiasts, and anyone int
   </p>
 
 
-## Statistics 📊📈
+## Let's Have a look on My Github Stats 📊📈
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akanksha042)  
+
+<a href="https://github.com/akanksha042/github-readme-stats"><img alt="Akanksha Srivastava's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akanksha042&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<a href="https://github.com/akanksha042/github-readme-stats"><img alt="Akanksha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha042&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<br/>
 
