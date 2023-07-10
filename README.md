@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="MyProfile.png" alt="Profile Image" width="600" height="600"> 
+  <img src="MyProfileGIF.gif" alt="Profile Image" width="480" height="270"> 
 </div>
 
 
