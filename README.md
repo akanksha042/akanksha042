@@ -40,8 +40,8 @@ I'm always eager to learn and grow as a developer, constantly seeking new challe
 
 ## Key Skills ✨
 - Programming languages: Java, C, Python
-- Web development: HTML, CSS, JS, React JS
-- Data analysis: SQL
+- Web development: HTML, CSS, JS, React JS, Angular
+- Data analysis: SQL, Oracle, MongoDB
 - Soft skills: Problem-solving, communication, teamwork
 
 ## Interests ✨
